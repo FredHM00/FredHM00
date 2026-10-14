@@ -1,6 +1,15 @@
-# Fred H. Martins — 42 School | Python Backend
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=130&section=header&text=Fred%20H.%20Martins&fontColor=ffffff&fontSize=32&animation=fadeIn" width="100%"/>
+
+# 42 School | Python Backend
 
 Backend-leaning portfolio. 42 School (C, algorithms) + Python APIs (FastAPI, PostgreSQL).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=333)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 
 ## Showcase — start here
 
@@ -22,6 +31,16 @@ Backend-leaning portfolio. 42 School (C, algorithms) + Python APIs (FastAPI, Pos
 - Python modules (stdlib → data-oriented scripting)
 - `dataguard-api`: hardening basics — JWT, rate-limit, audit, CI (Bandit, pip-audit, Gitleaks)
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FredHM00/FredHM00/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FredHM00/FredHM00/main/dist/github-snake.svg" />
+  <img alt="Contribution snake (orange on blue, auto light/dark)" src="https://raw.githubusercontent.com/FredHM00/FredHM00/main/dist/github-snake.svg" width="100%" />
+</picture>
+
+> The snake above is generated daily from my contribution graph by the `Generate contribution snake` workflow. If the image is not showing yet, run the workflow once manually (Actions tab → Run workflow).
+
 ## Run dataguard-api
 
 ```bash
@@ -33,3 +52,5 @@ curl -s localhost:8000/health
 ```
 
 OpenAPI: `http://localhost:8000/docs`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=110&section=footer" width="100%"/>
