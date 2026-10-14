@@ -19,7 +19,6 @@ Backend-leaning portfolio. 42 School (C, algorithms) + Python APIs (FastAPI, Pos
 | **[Push_Swap](https://github.com/FredHM00/Push_Swap)** | 42 sorting project with limited stack operations | C, algorithms, complexity |
 | **[Libft_42](https://github.com/FredHM00/Libft_42)** | Custom C library recreating libc + utils, reused across 42 projects | C, memory management |
 
-> Portfolio intent: only 42 projects + `dataguard-api` stay public and pinned. Lab exercises, bootcamp forks and drafts are private, archived or removed.
 
 ## Stack
 
@@ -38,8 +37,6 @@ Backend-leaning portfolio. 42 School (C, algorithms) + Python APIs (FastAPI, Pos
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FredHM00/FredHM00/main/dist/github-snake.svg" />
   <img alt="Contribution snake (orange on blue, auto light/dark)" src="https://raw.githubusercontent.com/FredHM00/FredHM00/main/dist/github-snake.svg" width="100%" />
 </picture>
-
-> The snake above is generated daily from my contribution graph by the `Generate contribution snake` workflow. If the image is not showing yet, run the workflow once manually (Actions tab → Run workflow).
 
 ## Run dataguard-api
 
