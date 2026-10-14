@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=130&section=header&text=Fred%20H.%20Martins&fontColor=ffffff&fontSize=32&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=130&section=header&text=Frederick%20H.%20Martins&fontColor=ffffff&fontSize=32&animation=fadeIn" width="100%"/>
 
 # 42 School | Python Backend
 
